@@ -1,0 +1,22 @@
+.textField{
+    position: absolute;
+    margin: 35% 0 0 44%;
+    background-color: rgba(230,190,138, 0.7);
+    display: flex;
+    flex-direction: column;
+    width: 23vh;
+}
+
+.textField button{
+    height: 4vh;
+    background-color: rgb(189, 151, 64, 0.5);
+    color: blueviolet;
+    border-radius: 10px;
+    border: 5px inset dodgerblue;
+}
+
+.textField button:hover{
+    border: 5px outset dodgerblue;
+    background-color: rgb(189, 151, 64, 0.8);
+    color: aqua;
+}

@@ -1,0 +1,11 @@
+.header {
+    position: relative;
+    height: 80vh;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background: url('../assets/library-hero.jpg') no-repeat;
+    background-size: cover;
+    border-bottom-right-radius: 300px;
+}
+
